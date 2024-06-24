@@ -1,0 +1,5 @@
+ignore
+*.zip
+.ipynb_checkpoints
+plots
+*_CLEAN.ipynb
